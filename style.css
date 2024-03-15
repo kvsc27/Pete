@@ -30,6 +30,7 @@ article div {
 
 p {
   line-height: 1.5;
+  width: 100%;
 }
 
 /* The div container constrains the content width within the main container to 600px */
