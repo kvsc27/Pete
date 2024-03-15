@@ -44,6 +44,7 @@ img {
   position-horizontal: center;
   display: in-line block;
   margin: 0 auto;
+  vertical-align: top;
 }
 
 hr {
@@ -59,7 +60,8 @@ hr {
   border-color: #003049;
   border-radius: 50%;
   border-style: solid;
-  width: 100%
+  width: 100%;
+  text-align: center;
 }
 
 header,
