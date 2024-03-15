@@ -27,6 +27,10 @@ article div {
   text-align: center
 }
 
+div {
+  margin-right: -100%;
+}
+
 p {
   line-height: 1.5;
 }
