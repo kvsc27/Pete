@@ -41,7 +41,7 @@ img {
   width: 100%;
   max-width: 200px;
   height: auto;
-  position-horizontal: center;
+  content-align: center;
 }
 
 hr {
