@@ -33,13 +33,13 @@ p {
 /* The div container constrains the content width within the main container to 600px */
 div {
   margin: auto;
-  width: 600px;
+  width: 100px;
   content-align: center;
 }
 
 img {
   width: 100%;
-  max-width: 600px;
+  max-width: 200px;
   height: auto;
   content-align: center;
 }
