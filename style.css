@@ -39,7 +39,7 @@ div {
 
 img {
   width: 100%;
-  max-width: 200px;
+  max-width: 600px;
   height: auto;
   content-align: center;
 }
@@ -57,7 +57,7 @@ hr {
   border-color: #003049;
   border-radius: 50%;
   border-style: solid;
-  width: 100%;
+  width: 600%;
   object-position: center;
 }
 
