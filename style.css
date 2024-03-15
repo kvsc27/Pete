@@ -42,7 +42,8 @@ img {
   width: 100%;
   max-width: 200px;
   height: auto;
-  position-horizontal: center;
+  display: block;
+  Margin: auto;
 }
 
 hr {
@@ -59,7 +60,8 @@ hr {
   border-radius: 50%;
   border-style: solid;
   width: 100%;
-  object-postion: center;
+  display: block;
+  margin: auto;
 }
 
 header,
