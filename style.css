@@ -6,7 +6,8 @@ body {
   font-family: "Source Sans Pro", Tahoma, Geneva, Verdana, sans-serif;
   padding: 40px;
   background-color: #eae2b7;
-  margin: 90px;
+  margin-inline-end: 20px; 
+  writing-mode: horizontal-tb;
 }
   
 /* Set the font family for any h1, h2, or h3 heading */
