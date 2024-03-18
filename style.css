@@ -1,10 +1,5 @@
 /* The @import rule below imports the Playfair Display and Source Sans Pro fonts into the stylesheet. You don't have to edit this line.*/
 @import url("https://fonts.googleapis.com/css2?family=Playfair+Display&family=Source+Sans+Pro:wght@400&display=swap");
-
-main { 
-  display: block;
-  margin: 0 auto;
-  width: 600px;
   
 body {
   color: #003049;
@@ -14,6 +9,11 @@ body {
   margin-inline-end: 20px; 
   writing-mode: horizontal-tb;
 }
+
+main { 
+  display: block;
+  margin: 0 auto;
+  width: 600px;
   
 /* Set the font family for any h1, h2, or h3 heading */
 h1,
